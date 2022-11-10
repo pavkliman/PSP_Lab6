@@ -1,0 +1,75 @@
+D:\Учёба\7 семестр\ПСП\ЛР №5\Lab5\Server\bin\Debug\net6.0\Server.exe
+D:\Учёба\7 семестр\ПСП\ЛР №5\Lab5\Server\bin\Debug\net6.0\Server.deps.json
+D:\Учёба\7 семестр\ПСП\ЛР №5\Lab5\Server\bin\Debug\net6.0\Server.runtimeconfig.json
+D:\Учёба\7 семестр\ПСП\ЛР №5\Lab5\Server\bin\Debug\net6.0\Server.dll
+D:\Учёба\7 семестр\ПСП\ЛР №5\Lab5\Server\bin\Debug\net6.0\Server.pdb
+D:\Учёба\7 семестр\ПСП\ЛР №5\Lab5\Server\obj\Debug\net6.0\Server.csproj.AssemblyReference.cache
+D:\Учёба\7 семестр\ПСП\ЛР №5\Lab5\Server\obj\Debug\net6.0\Server.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учёба\7 семестр\ПСП\ЛР №5\Lab5\Server\obj\Debug\net6.0\Server.AssemblyInfoInputs.cache
+D:\Учёба\7 семестр\ПСП\ЛР №5\Lab5\Server\obj\Debug\net6.0\Server.AssemblyInfo.cs
+D:\Учёба\7 семестр\ПСП\ЛР №5\Lab5\Server\obj\Debug\net6.0\Server.csproj.CoreCompileInputs.cache
+D:\Учёба\7 семестр\ПСП\ЛР №5\Lab5\Server\obj\Debug\net6.0\Server.dll
+D:\Учёба\7 семестр\ПСП\ЛР №5\Lab5\Server\obj\Debug\net6.0\refint\Server.dll
+D:\Учёба\7 семестр\ПСП\ЛР №5\Lab5\Server\obj\Debug\net6.0\Server.pdb
+D:\Учёба\7 семестр\ПСП\ЛР №5\Lab5\Server\obj\Debug\net6.0\Server.genruntimeconfig.cache
+D:\Учёба\7 семестр\ПСП\ЛР №5\Lab5\Server\obj\Debug\net6.0\ref\Server.dll
+D:\Учёба\7 семестр\ПСП\ЛР №6\Lab6\Server\bin\Debug\net6.0\Server.exe
+D:\Учёба\7 семестр\ПСП\ЛР №6\Lab6\Server\bin\Debug\net6.0\Server.deps.json
+D:\Учёба\7 семестр\ПСП\ЛР №6\Lab6\Server\bin\Debug\net6.0\Server.runtimeconfig.json
+D:\Учёба\7 семестр\ПСП\ЛР №6\Lab6\Server\bin\Debug\net6.0\Server.dll
+D:\Учёба\7 семестр\ПСП\ЛР №6\Lab6\Server\bin\Debug\net6.0\Server.pdb
+D:\Учёба\7 семестр\ПСП\ЛР №6\Lab6\Server\obj\Debug\net6.0\Server.csproj.AssemblyReference.cache
+D:\Учёба\7 семестр\ПСП\ЛР №6\Lab6\Server\obj\Debug\net6.0\Server.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учёба\7 семестр\ПСП\ЛР №6\Lab6\Server\obj\Debug\net6.0\Server.AssemblyInfoInputs.cache
+D:\Учёба\7 семестр\ПСП\ЛР №6\Lab6\Server\obj\Debug\net6.0\Server.AssemblyInfo.cs
+D:\Учёба\7 семестр\ПСП\ЛР №6\Lab6\Server\obj\Debug\net6.0\Server.csproj.CoreCompileInputs.cache
+D:\Учёба\7 семестр\ПСП\ЛР №6\Lab6\Server\obj\Debug\net6.0\Server.dll
+D:\Учёба\7 семестр\ПСП\ЛР №6\Lab6\Server\obj\Debug\net6.0\refint\Server.dll
+D:\Учёба\7 семестр\ПСП\ЛР №6\Lab6\Server\obj\Debug\net6.0\Server.pdb
+D:\Учёба\7 семестр\ПСП\ЛР №6\Lab6\Server\obj\Debug\net6.0\Server.genruntimeconfig.cache
+D:\Учёба\7 семестр\ПСП\ЛР №6\Lab6\Server\obj\Debug\net6.0\ref\Server.dll
+C:\Users\Илья\Desktop\ЛР №6\Lab6\Server\bin\Debug\net6.0\Server.exe
+C:\Users\Илья\Desktop\ЛР №6\Lab6\Server\bin\Debug\net6.0\Server.deps.json
+C:\Users\Илья\Desktop\ЛР №6\Lab6\Server\bin\Debug\net6.0\Server.runtimeconfig.json
+C:\Users\Илья\Desktop\ЛР №6\Lab6\Server\bin\Debug\net6.0\Server.dll
+C:\Users\Илья\Desktop\ЛР №6\Lab6\Server\bin\Debug\net6.0\Server.pdb
+C:\Users\Илья\Desktop\ЛР №6\Lab6\Server\obj\Debug\net6.0\Server.csproj.AssemblyReference.cache
+C:\Users\Илья\Desktop\ЛР №6\Lab6\Server\obj\Debug\net6.0\Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Илья\Desktop\ЛР №6\Lab6\Server\obj\Debug\net6.0\Server.AssemblyInfoInputs.cache
+C:\Users\Илья\Desktop\ЛР №6\Lab6\Server\obj\Debug\net6.0\Server.AssemblyInfo.cs
+C:\Users\Илья\Desktop\ЛР №6\Lab6\Server\obj\Debug\net6.0\Server.csproj.CoreCompileInputs.cache
+C:\Users\Илья\Desktop\ЛР №6\Lab6\Server\obj\Debug\net6.0\Server.dll
+C:\Users\Илья\Desktop\ЛР №6\Lab6\Server\obj\Debug\net6.0\refint\Server.dll
+C:\Users\Илья\Desktop\ЛР №6\Lab6\Server\obj\Debug\net6.0\Server.pdb
+C:\Users\Илья\Desktop\ЛР №6\Lab6\Server\obj\Debug\net6.0\Server.genruntimeconfig.cache
+C:\Users\Илья\Desktop\ЛР №6\Lab6\Server\obj\Debug\net6.0\ref\Server.dll
+C:\Users\Оля\Desktop\ЛР №6\Lab6\Server\bin\Debug\net6.0\Server.exe
+C:\Users\Оля\Desktop\ЛР №6\Lab6\Server\bin\Debug\net6.0\Server.deps.json
+C:\Users\Оля\Desktop\ЛР №6\Lab6\Server\bin\Debug\net6.0\Server.runtimeconfig.json
+C:\Users\Оля\Desktop\ЛР №6\Lab6\Server\bin\Debug\net6.0\Server.dll
+C:\Users\Оля\Desktop\ЛР №6\Lab6\Server\bin\Debug\net6.0\Server.pdb
+C:\Users\Оля\Desktop\ЛР №6\Lab6\Server\obj\Debug\net6.0\Server.csproj.AssemblyReference.cache
+C:\Users\Оля\Desktop\ЛР №6\Lab6\Server\obj\Debug\net6.0\Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Оля\Desktop\ЛР №6\Lab6\Server\obj\Debug\net6.0\Server.AssemblyInfoInputs.cache
+C:\Users\Оля\Desktop\ЛР №6\Lab6\Server\obj\Debug\net6.0\Server.AssemblyInfo.cs
+C:\Users\Оля\Desktop\ЛР №6\Lab6\Server\obj\Debug\net6.0\Server.csproj.CoreCompileInputs.cache
+C:\Users\Оля\Desktop\ЛР №6\Lab6\Server\obj\Debug\net6.0\Server.dll
+C:\Users\Оля\Desktop\ЛР №6\Lab6\Server\obj\Debug\net6.0\refint\Server.dll
+C:\Users\Оля\Desktop\ЛР №6\Lab6\Server\obj\Debug\net6.0\Server.pdb
+C:\Users\Оля\Desktop\ЛР №6\Lab6\Server\obj\Debug\net6.0\Server.genruntimeconfig.cache
+C:\Users\Оля\Desktop\ЛР №6\Lab6\Server\obj\Debug\net6.0\ref\Server.dll
+C:\Users\Razer\Downloads\Telegram Desktop\ЛР №6\ЛР №6\Lab6\Server\bin\Debug\net6.0\Server.exe
+C:\Users\Razer\Downloads\Telegram Desktop\ЛР №6\ЛР №6\Lab6\Server\bin\Debug\net6.0\Server.deps.json
+C:\Users\Razer\Downloads\Telegram Desktop\ЛР №6\ЛР №6\Lab6\Server\bin\Debug\net6.0\Server.runtimeconfig.json
+C:\Users\Razer\Downloads\Telegram Desktop\ЛР №6\ЛР №6\Lab6\Server\bin\Debug\net6.0\Server.dll
+C:\Users\Razer\Downloads\Telegram Desktop\ЛР №6\ЛР №6\Lab6\Server\bin\Debug\net6.0\Server.pdb
+C:\Users\Razer\Downloads\Telegram Desktop\ЛР №6\ЛР №6\Lab6\Server\obj\Debug\net6.0\Server.csproj.AssemblyReference.cache
+C:\Users\Razer\Downloads\Telegram Desktop\ЛР №6\ЛР №6\Lab6\Server\obj\Debug\net6.0\Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Razer\Downloads\Telegram Desktop\ЛР №6\ЛР №6\Lab6\Server\obj\Debug\net6.0\Server.AssemblyInfoInputs.cache
+C:\Users\Razer\Downloads\Telegram Desktop\ЛР №6\ЛР №6\Lab6\Server\obj\Debug\net6.0\Server.AssemblyInfo.cs
+C:\Users\Razer\Downloads\Telegram Desktop\ЛР №6\ЛР №6\Lab6\Server\obj\Debug\net6.0\Server.csproj.CoreCompileInputs.cache
+C:\Users\Razer\Downloads\Telegram Desktop\ЛР №6\ЛР №6\Lab6\Server\obj\Debug\net6.0\Server.dll
+C:\Users\Razer\Downloads\Telegram Desktop\ЛР №6\ЛР №6\Lab6\Server\obj\Debug\net6.0\refint\Server.dll
+C:\Users\Razer\Downloads\Telegram Desktop\ЛР №6\ЛР №6\Lab6\Server\obj\Debug\net6.0\Server.pdb
+C:\Users\Razer\Downloads\Telegram Desktop\ЛР №6\ЛР №6\Lab6\Server\obj\Debug\net6.0\Server.genruntimeconfig.cache
+C:\Users\Razer\Downloads\Telegram Desktop\ЛР №6\ЛР №6\Lab6\Server\obj\Debug\net6.0\ref\Server.dll
